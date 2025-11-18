@@ -4,9 +4,9 @@
 
 **Project Link:** [View Project](http://learn.nextwork.org/projects/aws-networks-ec2)
 
-**Author:** Bao Luong  
-**Email:** baodevops21@gmail.com
-
+**👤 Author:** Bao Luong  
+**📧 Email:** baodevops21@gmail.com  
+**💼 LinkedIn:** [bluong21](https://www.linkedin.com/in/bluong21/)
 ---
 
 ## Launching VPC Resources
